@@ -17,3 +17,5 @@ Nur noch 13 Änderungen.
 Änderung Nr. 11
 
 Dies ist eine Übung um Github zu lernen.
+
+Commit Nr. 13
