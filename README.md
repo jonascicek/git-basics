@@ -19,3 +19,6 @@ Nur noch 13 Änderungen.
 Dies ist eine Übung um Github zu lernen.
 
 Commit Nr. 13
+Nene das ist falsch
+warum machst du das ?! 
+nach der 12 kommt 13 und nicht 11
